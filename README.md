@@ -29,7 +29,9 @@
 ---
 ## 中文版
 
-# 环境搭建——从零跑通第一个自动化脚本
+# Python 自动化实战：用脚本替代重复劳动
+
+> 零基础学 Python 自动化：批量处理 Excel/Word、定时发邮件、网页数据抓取、调用 AI API……每章一个真实工作场景，学完即用。16 个深度专题，专业向内容，代码可直接复用。
 
 **📖 在线免费阅读全文:[https://tools.yiteai.com/books/python-automation](https://tools.yiteai.com/books/python-automation)**
 
